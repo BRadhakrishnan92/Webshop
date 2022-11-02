@@ -1,5 +1,7 @@
 # WebShop mit Produkt und Warenkorb
 
+- Alle angezeigten Produkte sind 5 auf Stock
+- wählen Sie bitte mehr als 5 Stück des Produkts und beobachten Sie, was passiert
 ## Anwendung
 
 ```
@@ -15,4 +17,3 @@ $ npm run build
 # Vite preview
 $ npm run serve
 ```
-# Webshop
